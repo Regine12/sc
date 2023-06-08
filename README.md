@@ -1,0 +1,2 @@
+# sc
+Secured Chat PWA
